@@ -2,7 +2,6 @@
 using namespace std; 
 int main() 
 { 
-    cout << "file.cpp\n";
-    cout << "new\n"; 
+    cout << "file.cpp\n"; 
     return 0; 
 }
